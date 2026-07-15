@@ -66,9 +66,3 @@ Existing artwork is skipped automatically unless **Replace and update old assets
 ## Missing artwork
 
 If artwork is still unavailable after every provider has been checked, the app creates `TICO Missing Assets.txt` in the main TICO folder. The report lists the system, original filename, resolved game title, and missing asset types.
-
-## Disclaimer
-
-This is an unofficial community tool and is not affiliated with SteamGridDB or the TICO project.
-
-Artwork availability and usage rights vary by provider. Review the relevant source licensing before redistributing downloaded images.
