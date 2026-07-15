@@ -1,8 +1,8 @@
 # TICO Assets Downloader
 
-App that automatically finds, downloads, converts, and organizes covers, backgrounds, icons, and logos for your TICO game library—without any headaches.
+Transform your TICO game library in minutes. This standalone Windows app automatically finds, downloads, converts, and organizes covers, backgrounds, icons, and logos for every game—saving them directly to your TICO folder and eliminating countless hours of tedious manual downloads on your Switch.
 
-![TICO Assets Downloader main window](main-window.png)
+<img width="1348" height="745" alt="image" src="https://github.com/user-attachments/assets/4a7c19b4-aa0f-4fbb-b9e1-21c218645346" />
 
 ## Features
 
@@ -26,11 +26,11 @@ Only a free SteamGridDB API key is required. It is used for the current session 
 
 ### Library game counts
 
-![Library game counts](library-counts.png)
+<img width="655" height="437" alt="image" src="https://github.com/user-attachments/assets/df2012ae-777b-45e0-983a-4f4965ab79ba" />
 
 ### Select specific games
 
-![Specific game selection and artwork status](game-selection.png)
+<img width="972" height="757" alt="image" src="https://github.com/user-attachments/assets/b8011f3d-9126-474e-adc4-550d792012da" />
 
 ## Supported assets
 
